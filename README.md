@@ -9,7 +9,7 @@
 
 ### 🍎 [WacOS](https://github.com/renzyxx/WacOS)
 A macOS-style shell for Windows 11, in C++ / Win32 / Direct2D.
-Golden Gate, Tahoe, Sequoia and Mac OS X Leopard themes, its own apps, a Dynamic Island and a Game Mode. Open source, GPL-3.0.
+Golden Gate, Tahoe, Sequoia and Mac OS X Leopard themes, its own apps, a Dynamic Island and a Game Mode. Free to use, source-available.
 
 ### 🎹 Audio
 - **Nagare**: VST3 that humanizes MIDI piano
